@@ -1,0 +1,17 @@
+.first-div
+{
+width:350px;
+height : 200px;
+background-color: teal;
+border-width:3px;
+border-color:gold;
+border-radius:20%;
+margin:10px;
+padding:5px;
+}
+
+.normal-lines
+{
+
+color:black;
+}
